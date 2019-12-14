@@ -1,0 +1,13 @@
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountProfile.resources
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAdmin.resources
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTableManager.resources
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\backcup code OAD\QLTV\ThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
